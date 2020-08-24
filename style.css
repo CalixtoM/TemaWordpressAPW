@@ -19,3 +19,15 @@ Use it to make something cool, have fun, and share what you've learned with othe
     width: 80%;
     height: 200px;
 }
+
+.rodape{
+    background-color: #ccc;
+    color: #000;
+    width: 100%;
+    height: 200px;
+    text-align: center;
+}
+
+.rodape p{
+    margin-top: 150px;
+}

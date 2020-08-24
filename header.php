@@ -11,7 +11,7 @@
             <div class="row">
                 <div class="col-3 logo">
                     <a href="<?= site_url(); ?>">
-                        <img src="<?= get_template_directory_uri() ?>/assets/images/logo.png" class="imagem">
+                        <img src="<?= get_template_directory_uri() ?>/assets/images/logo.png" class="img-fluid">
                     </a>
                 </div>
                 <div class="col-9 titulo">
