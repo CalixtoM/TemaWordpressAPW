@@ -31,3 +31,8 @@ Use it to make something cool, have fun, and share what you've learned with othe
 .rodape p{
     margin-top: 150px;
 }
+
+.foto img{
+    width: 100px;
+    height: 80%;
+}
