@@ -27,6 +27,7 @@
                 <h3><?php the_title(); ?></h3>
                 <div class=""><?php the_post_thumbnail(); ?></div>
                 <p><?php the_excerpt(); ?></p>
+                <a href="<?php the_permalink(); ?>">Leia mais</a> 
         </div>        
         <?php 
                 } //fim while
