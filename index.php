@@ -15,10 +15,8 @@
 
     <div class="row">
         <div class="col-12">
-            <h2>Textos de entrada</h2>
-            <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Alias iusto adipisci ipsam reiciendis,
-            quibusdam, voluptas deserunt molestias tempore facilis repellendus deleniti reprehenderit laboriosam?
-            Excepturi aperiam cum quos pariatur itaque iusto.</p>
+            <h2>Conheça mais sobre nós</h2>
+            <p>Sou um estudande do terceiro módulo de informática para internet e dentro da minha grade curricular possuo a matéria de Aplicativos Para Internet, dentro do conteudo dessa matéria aprendemos a criar temas para o Wordpress, esse site é um exemplo.</p>
         </div>
     </div>
 
